@@ -1,0 +1,7 @@
+unlimited_field.form:
+  path: '/admin/unlimited-field'
+  defaults:
+    _form: '\Drupal\unlimited_field\Form\UnlimitedForm'
+    _title: 'Custom Unlimited Field'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,6 @@
+name: 'Unlimited Field'
+description: 'Custom Unlimited Field With drupal 8.'
+type: module
+package: custom
+core: 8.x
+version: 8.x

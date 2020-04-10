@@ -1,0 +1,5 @@
+custom.unlimited_field:
+  title: 'Unlimited Field'
+  description: 'Custom Unlimited Field.'
+  parent: system.admin_config_system
+  route_name: unlimited_field.form
